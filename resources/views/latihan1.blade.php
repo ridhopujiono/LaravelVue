@@ -15,7 +15,10 @@
 <body>
     
     <div id="app">
-        
+        Hello World!
+        <example-component>
+
+        </example-component>
     </div>
 
 
